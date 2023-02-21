@@ -1,5 +1,2 @@
-### Hi there 👋
-
-<!--
-Projects prepared in Google Colab.
+### Hi there 👋 These are the projects prepared in Google Colab.
 -->
